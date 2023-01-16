@@ -1,0 +1,19 @@
+{
+  "name": "about_me",
+  "version": "1.0.0",
+  "description": "Website about me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessawid/About_Me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessawid/About_Me/issues"
+  },
+  "homepage": "https://github.com/jessawid/About_Me#readme"
+}
